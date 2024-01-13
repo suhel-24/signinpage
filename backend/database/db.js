@@ -10,3 +10,4 @@ const dbconnect=async ()=>{
     }
 }
 module.exports=dbconnect
+/// to connect database
